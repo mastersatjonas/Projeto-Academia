@@ -173,7 +173,7 @@ section {
 .pricing .plan .price {
     font-size: 5rem;
     font-weight: bolder;
-    color: rgba(238, 211, 5, 0.644);
+    color: rgba(238, 211, 5);
 }
 
 .pricing .plan .price span {

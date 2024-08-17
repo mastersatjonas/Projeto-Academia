@@ -136,12 +136,12 @@ section {
 
 .home .slide .content span {
     font-size: 2rem;
-    color: rgba(238, 211, 5, 0.655);
+    color: rgba(238, 211, 5);
     display: block;
 }
 .home .slide .content h3 {
     font-size: 5rem;
-    color:rgb(219, 232, 220);
+    color:rgb(5, 238, 21);
     padding: 1rem 0;
 }
 
